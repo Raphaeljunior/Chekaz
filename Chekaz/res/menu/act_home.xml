@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item 	
+        android:id="@+id/menu_home_findFriends" 
+        android:showAsAction="never" 
+        android:icon="@drawable/ic_action_add_person" 
+        android:title="@string/actHome_menu_findFriends" 
+        android:alphabeticShortcut="f">        
+    </item>
+    
+    <item 	
+        android:id="@+id/menu_home_logout" 
+        android:showAsAction="never" 
+        android:icon="@drawable/ic_action_accounts" 
+        android:title="@string/actHome_menu_logout" 
+        android:alphabeticShortcut="l">        
+    </item>
+    
+    
+
+</menu>
